@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\bin\Debug\Phase-End Project 1 Player and Team Requirements.exe.config
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\bin\Debug\Phase-End Project 1 Player and Team Requirements.exe
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\bin\Debug\Phase-End Project 1 Player and Team Requirements.pdb
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\obj\Debug\Phase-End Project 1 Player and Team Requirements.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\obj\Debug\Phase-End Project 1 Player and Team Requirements.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\obj\Debug\Phase-End Project 1 Player and Team Requirements.exe
+C:\Users\USER\Desktop\simplilearn\Phase-End Project 1 Player and Team Requirements\Phase-End Project 1 Player and Team Requirements\obj\Debug\Phase-End Project 1 Player and Team Requirements.pdb
